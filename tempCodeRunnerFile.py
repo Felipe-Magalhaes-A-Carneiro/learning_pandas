@@ -1,1 +1,1 @@
-var
+print(df.loc[[0]])
